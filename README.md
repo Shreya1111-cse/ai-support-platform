@@ -7,7 +7,7 @@ Yeh ek modern, real-time AI Customer Support Platform hai jise TypeScript aur Re
 Is app mein do mukhy bhag hain:
 
 Chat Interface: Jahaan user AI se sawal poochhte hain.
-
+b
 Admin Panel: Jahaan documents upload kiye jaate hain jo AI ke "Knowledge Base" ka hissa bante hain. AI sirf in documents ke aadhaar par hi jawab deta hai.
 
 ✨ Features
